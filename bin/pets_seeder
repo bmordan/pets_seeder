@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/pets_seeder.rb'
+
+PetsSeeder::Start.new
